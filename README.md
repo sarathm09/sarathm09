@@ -17,12 +17,13 @@
 <div>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/sarathm09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sarathm09" height="30" width="40" /></a>
-<a href="https://twitter.com/sskuttu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sskuttu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/t90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="t90" height="30" width="40" /></a>
-<a href="https://medium.com/@sarathm09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sarathm09" height="30" width="40" /></a>
-</p>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarathm14)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sskuttu)
+[![Medium Badge](https://img.shields.io/badge/-Medium-12100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@sarathm09)
+[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-f28237?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/t90)
+[![Medium Badge](https://img.shields.io/badge/-Dev.to-000000.svg?&style=for-square&logo=devdotto&logoColor=white)](https://medium.com/@sarathm09)
+
   
   
 <br/><br/><br/> 
