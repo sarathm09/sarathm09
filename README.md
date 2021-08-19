@@ -28,9 +28,10 @@
 <br/><br/><br/> 
 
   
-<!-- ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### ✍🏼 Blogs posts
+<hr/>
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 
 
