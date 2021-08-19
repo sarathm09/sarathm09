@@ -1,0 +1,15 @@
+name: Latest medium posts workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: MEDIUM
+          feed_list: "https://medium.com/feed/@sarathm09"
