@@ -1,5 +1,5 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sarath</h1>
-<h3 align="center">Full stack developer | Tech evangelist | End-user empathizer</h3>
+<h3 align="center">Full stack developer | Tech enthusiast | End-user empathizer</h3>
 <hr/>
 <br/>
 
