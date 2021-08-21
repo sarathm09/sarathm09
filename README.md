@@ -3,11 +3,12 @@
 <hr/>
 <br/>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" align="right">
-
 ### 🙂 About me
 
 <hr/>
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="375" height="300" align="right">
+
 <div>
   <p><b>💼&nbsp;&nbsp;Work</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: SAP Labs Pvt Ltd</p>
   <p><b>👨🏽‍💻&nbsp;&nbsp;Role </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Fullstack Developer, Product Strategy Advocate, Customer Dev Angel, Security Point of Contact</p>
@@ -29,7 +30,7 @@
 <br/><br/><br/> 
 
   
-### ✍🏼 Recent Blogs posts
+### ✍🏼 Recent blogs posts
 <hr/>
   
   
@@ -39,7 +40,7 @@
 
   
 <br/><br/>
-<h3 align="left">🛠 Languages and Tools:</h3>
+<h3 align="left">🛠 My favorite tools:</h3>
 <hr/>
 <h4>Languages</h4>
 <p align="left">
@@ -239,7 +240,7 @@
 
 <br/>
   
-<h3 align="left">📈 Some Github Stats:</h3>
+<h3 align="left">📈 Some stats from Github:</h3>
 <hr/>
 <table border="0" bordercolor="transparent">
   <tr>
