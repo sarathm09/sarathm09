@@ -6,14 +6,16 @@
 
 <hr/>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="375" height="300" align="right">
+<!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="375" height="300" align="right"> -->
 
 <div>
-  <p><b>💼&nbsp;&nbsp;Work</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: SAP Labs Pvt Ltd</p>
-  <p><b>👨🏽‍💻&nbsp;&nbsp;Role </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Fullstack Developer, Product Strategy Advocate, Customer Dev Angel, Security Point of Contact</p>
-  <p><b>📍&nbsp;&nbsp;Location</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Bangalore, India</p>
-  <p><b>🥇&nbsp;&nbsp;Awards</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: MVP, Guiding Star</p>
-  <p><b>🎨&nbsp;&nbsp;&nbsp;Interestes</b>&nbsp;: Origami, Painting, Gardening</p>
+  <p>
+    <b>💼&nbsp;&nbsp;Work</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: SAP, India <br/>
+    <b>👨🏽‍💻&nbsp;&nbsp;Role </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Fullstack Developer, Product Strategy Advocate, Customer Dev Angel, Security Point of Contact <br/>
+    <b>📍&nbsp;&nbsp;Location</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Bangalore, India <br/>
+    <b>🥇&nbsp;&nbsp;Awards</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: MVP, Guiding Star <br/>
+    <b>🎨&nbsp;&nbsp;&nbsp;Interestes</b>&nbsp;: Origami, Painting, Gardening <br/>
+  </p>
 <div>
 
 <h3 align="left">Connect with me:</h3>
@@ -26,8 +28,7 @@
 
   
   
-<br/><br/><br/> 
-
+<br/>
   
 ### ✍🏼 Recent blogs posts
 <hr/>
