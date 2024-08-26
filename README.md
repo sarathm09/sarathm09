@@ -1,255 +1,84 @@
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sarath</h1>
-<h3 align="center">Full stack developer | Tech enthusiast | End-user empathizer</h3>
+# Hi there, I'm Sarath! 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;End-user+Empathizer;Product+Strategy+Advocate;Security+Point+of+Contact" alt="Typing SVG" />
+</div>
+
+## 🚀 Quick Facts
+
+- 🏢 Currently working at **Amazon, India**
+- 🌆 Based in **Bangalore, India**
+- 🏆 Proud recipient of **MVP**, **Role Model** and **Guiding Star** awards
+- 🎨 Interests: Learning new tech, Origami, Painting, Gardening
+- 💼 Roles: Full Stack Developer (Amazon, SAP), Product Strategy Advocate (SAP), Customer Dev Angel (SAP), Security Point of Contact (SAP)
+
+## 🛠️ Tech Stack
+
+<div align="left">
+
+### What I usually work on
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 <br/>
 
-### 🙂 About me
-
-<hr/>
-
-<!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="375" height="300" align="right"> -->
-
-<div>
-  <p>
-    <b>💼&nbsp;&nbsp;Work</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: SAP, India <br/>
-    <b>👨🏽‍💻&nbsp;&nbsp;Role </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Fullstack Developer, Product Strategy Advocate, Customer Dev Angel, Security Point of Contact <br/>
-    <b>📍&nbsp;&nbsp;Location</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Bangalore, India <br/>
-    <b>🥇&nbsp;&nbsp;Awards</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: MVP, Guiding Star <br/>
-    <b>🎨&nbsp;&nbsp;&nbsp;Interestes</b>&nbsp;: Origami, Painting, Gardening <br/>
-  </p>
-<div>
-
-<h3 align="left">Connect with me:</h3>
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarathm14)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sskuttu)
-[![Medium Badge](https://img.shields.io/badge/-Medium-12100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@sarathm09)
-[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-f28237?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/t90)
-[![Medium Badge](https://img.shields.io/badge/-Dev.to-000000.svg?&style=for-square&logo=devdotto&logoColor=white)](https://medium.com/@sarathm09)
-
-  
-  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 <br/>
-  
-### ✍🏼 Recent blogs posts
-<hr/>
-  
-  
+
+![SAP HANA](https://img.shields.io/badge/-SAP%20HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+<br/>
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarathm09&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarathm09&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Make API testing easy with Vibranium](https://sarathm09.medium.com/make-api-testing-easy-with-vibranium-c07216f9bb6f?source=rss-12f4f1a0c232------2)
 <!-- BLOG-POST-LIST:END -->
 
-  
-<br/><br/>
-<h3 align="left">🛠 My favorite tools:</h3>
-<hr/>
-<h4>Languages</h4>
-<p align="left">
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript"
-            width="55"
-            height="55"
-        />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript"
-            width="55"
-            height="55"
-        />
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55" />
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55" />
-    </a>
-</p>
-<h4>Libraries and Frameworks</h4>
-<p align="left">
-    <a href="https://nodejs.org" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs"
-            width="55"
-            height="55"
-        />
-    </a>
-    <a href="https://spring.io/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react"
-            width="55"
-            height="55"
-        />
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker"
-            width="55"
-            height="55"
-        />
-    </a>
-    <a href="https://nextjs.org/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="55" height="55" />
-    </a>
-    <a href="https://mochajs.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="55" height="55" />
-    </a>
-    <a href="https://expressjs.com" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express"
-            width="55"
-            height="55"
-        />
-    </a>
-    <a href="https://www.gatsbyjs.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="55" height="55" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-            alt="vuejs"
-            width="55"
-            height="55"
-        />
-    </a>
-    <a href="https://www.chartjs.org" target="_blank">
-        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="55" height="55" />
-    </a>
-    <a href="https://www.cypress.io" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-            alt="cypress"
-            width="55"
-            height="55"
-        />
-    </a>
-    <a href="https://www.selenium.dev" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-            alt="selenium"
-            width="55"
-            height="55"
-        />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap"
-            width="55"
-            height="55"
-        />
-    </a>
-    <a href="https://bulma.io/" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg"
-            alt="bulma"
-            width="55"
-            height="55"
-        />
-    </a>
-</p>
-<h4>Databases</h4>
-<p align="left">
-    <a href="https://www.sap.com" target="_blank">
-        <img
-            src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg"
-            alt="SAP HANA"
-            width="55"
-            height="55"
-        />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb"
-            width="55"
-            height="55"
-        />
-    </a>
-    <a href="https://redis.io" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-            alt="redis"
-            width="55"
-            height="55"
-        />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql"
-            width="55"
-            height="55"
-        />
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="55" height="55" />
-    </a>
-</p>
-<h4>Others</h4>
-<p align="left">
-    <a href="https://graphql.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="55" height="55" />
-    </a>
-    <a href="https://www.odata.org/" target="_blank">
-        <img src="https://logodix.com/logo/1605633.png" alt="OData" width="55" height="55" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55" />
-    </a>
-    <a href="https://heroku.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="55" height="55" />
-    </a>
-    <a href="https://www.nginx.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="55" height="55" />
-    </a>
-    <a href="https://www.jenkins.io" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55" />
-    </a>
-    <a href="https://kafka.apache.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="55" height="55" />
-    </a>
-    <a href="https://www.elastic.co/kibana" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="55" height="55" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="55" height="55" />
-    </a>
-    <a href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55" />
-    </a>
-</p>
+## 🤝 Let's Connect
 
-<br/>
-  
-<h3 align="left">📈 Some stats from Github:</h3>
-<hr/>
-<table border="0" bordercolor="transparent">
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=sarathm09&show_icons=true&locale=en&theme=dracula" alt="sarathm09" />
-    </td>
-    <td>
-      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sarathm09&theme=dracula" alt="sarathm09" />
-     </td>
-  </tr>
-</table>
-  
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarathm14)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sskuttu)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sarathm09)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/t90)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sarathm09)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarathm09&style=flat-square&color=blue" alt="Profile views" />
+</div>
