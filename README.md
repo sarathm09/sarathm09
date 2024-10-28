@@ -52,12 +52,14 @@
 
 </div>
 
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarathm09&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarathm09&theme=radical" alt="GitHub Streak" />
 </div>
+-->
 
 ## 📝 Latest Blog Posts
 
