@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;End-user+Empathizer;" alt="Typing SVG" />
 </div>
 
+
 ## 🚀 Quick Facts
 
 - 🏢 Currently working at **Amazon, India**
