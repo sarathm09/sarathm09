@@ -7,9 +7,9 @@
 
 ## 🚀 Quick Facts
 
-- 🏢 Currently working at **Amazon, India**
+- 🏢 Software Development Engineer (Full Stack) at **Amazon, India**
 - 🌆 Based in **Bangalore, India**
-- 🏆 Proud recipient of **MVP**, **Role Model** and **Guiding Star** awards
+- 🏆 Proud recipient of **MVP**, **Role Model** and **Guiding Star** awards for my contributions in Amazon
 - 🎨 Interests: Learning new tech, Origami, Painting, Gardening
 - 💼 Roles: Full Stack Developer (Amazon, SAP), Product Strategy Advocate (SAP), Customer Dev Angel (SAP), Security Point of Contact (SAP)
 
@@ -65,7 +65,17 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Make API testing easy with Vibranium](https://sarathm09.medium.com/make-api-testing-easy-with-vibranium-c07216f9bb6f?source=rss-12f4f1a0c232------2)
+- [Mastering Prompt Engineering: Techniques for Effective AI Interaction (Part 1)](https://medium.com/generative-ai/mastering-prompt-engineering-techniques-for-effective-ai-interaction-part-1-d7665482296e)
+- [Mastering Prompt Engineering: Techniques for Effective AI Interaction (Part 2)](https://medium.com/@sarathm09/advanced-prompt-engineering-algorithms-and-techniques-part-2-9580de7633a9)
+- [Running Your Own LLM: From Setup to Production (Part 1)](https://medium.com/generative-ai/running-your-own-llm-from-setup-to-production-part-1-c986595c3f9b)
+- [Running Your Own LLM: From Setup to Production (Part 2)](https://medium.com/generative-ai/running-your-own-llm-from-setup-to-production-part-2-44ebb17ee074)
+- [Cloud Exit: Why 37signals’ Move Could Signal a Shift for Your Company
+](https://medium.com/stackademic/cloud-exit-why-37signals-move-could-signal-a-shift-for-your-company-8813a6767845)
+- [AI Pair Programming: The Future of Software Development?](https://medium.com/ai-in-plain-english/ai-pair-programming-the-future-of-software-development-6ea3036d016b)
+- [How I Built an Automatic Watering System for My Indoor Plants
+](https://medium.com/stackademic/how-i-built-an-automatic-watering-system-for-my-indoor-plants-53ea02082c1d)
+- [Make API testing easy with Vibranium](https://sarathm09.medium.com/make-api-testing-easy-with-vibranium-c07216f9bb6f)
+- [Cybersecurity in the Age of Remote Work: Protecting Your Digital Fortress](https://medium.com/@sarathm09/cybersecurity-in-the-age-of-remote-work-protecting-your-digital-fortress-0f034a8b82d1)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect
