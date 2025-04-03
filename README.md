@@ -11,7 +11,7 @@
 
 - 🏢 Software Development Engineer (Full Stack) at **Amazon, India**
 - 🌆 Based in **Bangalore, India**
-- 🏆 Proud recipient of **MVP**, **Role Model** and **Guiding Star** awards for my contributions in Amazon
+- 🏆 Proud recipient of **MVP**, **Role Model** and **Guiding Star** awards for my contributions in Amazon and SAP
 - 🎨 Interests: Learning new tech, Origami, Painting, Gardening
 - 💼 Roles: Full Stack Developer (Amazon, SAP), Product Strategy Advocate (SAP), Customer Dev Angel (SAP), Security Point of Contact (SAP)
 
