@@ -9,7 +9,9 @@
 
 ## 🚀 Quick Facts
 
-- 🏢 Lead Member of Technical Staff (LMTS) at Salesforce (previously: Software Development Engineer (Full Stack) at **Amazon, India**, **SAP**)
+- 🏢 Lead Member of Technical Staff (LMTS) at Salesforce
+- 🏢 Previous experience: Software Development Engineer (Full Stack) at **Amazon** and **SAP**
+- 👨🏻‍💻 Full stack Developer, Tech enthusiast, End user empathiser with 9+ years of industry experience
 - 🌆 Based in **Bangalore, India**
 - 🏆 Proud recipient of **MVP**, **Role Model** and **Guiding Star** awards for my contributions in Amazon and SAP
 - 🎨 Interests: Learning new tech, Origami, Painting, Gardening
